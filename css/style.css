@@ -8916,7 +8916,7 @@ input[type="text"] {
   border-radius: 30px;
   margin-bottom: 20px;
   margin-top: 20px;
-  padding: 80px,30px;
+  padding: 80px 30px;
   box-shadow: 0 0 9px rgba(0, 0, 0, 0.6);
 }
 .about-item img{
@@ -8937,6 +8937,8 @@ input[type="text"] {
   border: none;
 }
 .about-item p{
+  font-size: 17px;
+  text-align: center;
   margin-top: 20px;
 }
 .about-item:hover{
